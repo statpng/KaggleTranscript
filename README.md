@@ -3,9 +3,9 @@ This is a record of transcribing useful kaggle notebooks with python.
 
 * Reference: https://kaggle-kr.tistory.com/32
 * 학습 방법: 
-- 필사적으로 필사하세요
-- 커널의 A 부터 Z 까지 다 똑같이 따라 적기!
-- 똑같이 3번적고 다음 커널로 넘어가시면 됩니다.
+  - 필사적으로 필사하세요
+  - 커널의 A 부터 Z 까지 다 똑같이 따라 적기!
+  - 똑같이 3번적고 다음 커널로 넘어가시면 됩니다.
 
 **Binary classification : Tabular data**
 **1st level. Titanic: Machine Learning from Disaster**
