@@ -12,7 +12,7 @@ This is a record of transcribing useful kaggle notebooks with python.
 1st level. Titanic: Machine Learning from Disaster
   - **[cleared x 3]** 타이타닉 튜토리얼 1 - Exploratory data analysis, visualization, machine learning
   - **[cleared x 1]** EDA To Prediction(DieTanic)
-  - **[in progress x 1]** Titanic Top 4% with ensemble modeling
+  - **[cleared x 1]** Titanic Top 4% with ensemble modeling
   - Introduction to Ensembling/Stacking in Python
 2nd level. Porto Seguro’s Safe Driver Prediction
   - Data Preparation & Exploration
