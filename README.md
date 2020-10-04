@@ -6,7 +6,8 @@
   - 필사적으로 필사하세요
   - 커널의 A 부터 Z 까지 다 똑같이 따라 적기!
   - 똑같이 3번적고 다음 커널로 넘어가시면 됩니다.
-
+## 기타 참고자료:
+  - [참고자료1](https://unfinishedgod.netlify.app/2020/03/22/%EC%BA%90%EA%B8%80-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%AC%B8%EC%84%9C/)
 
 ## Binary classification : Tabular data
 
