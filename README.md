@@ -1,6 +1,7 @@
 # KaggleTranscript
 
-## 다음 캐글코리아 게시글을 복사한 내용입니다. ( https://kaggle-kr.tistory.com/32 )
+## 다음 캐글코리아 게시글을 복사한 내용입니다. 
+( https://kaggle-kr.tistory.com/32 )
 ## 학습 방법: 
   - 필사적으로 필사하세요
   - 커널의 A 부터 Z 까지 다 똑같이 따라 적기!
