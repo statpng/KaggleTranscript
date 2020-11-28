@@ -20,9 +20,9 @@
 
 ## [2nd level. Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
 
-- [Data Preparation & Exploration](https://www.kaggle.com/bertcarremans/data-preparation-exploration)
+- **[cleared x 1]** [Data Preparation & Exploration](https://www.kaggle.com/bertcarremans/data-preparation-exploration)
 - [Interactive Porto Insights - A Plot.ly Tutorial](https://www.kaggle.com/arthurtok/interactive-porto-insights-a-plot-ly-tutorial)
-- [XGBoost CV (LB .284)](https://www.kaggle.com/aharless/xgboost-cv-lb-284)
+- **[cleared x 1]** [XGBoost CV (LB .284)](https://www.kaggle.com/aharless/xgboost-cv-lb-284)
 - [Porto Seguro Exploratory Analysis and Prediction](https://www.kaggle.com/gpreda/porto-seguro-exploratory-analysis-and-prediction)
 
 ## [3rd level. Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
